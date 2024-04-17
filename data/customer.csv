@@ -1,0 +1,125 @@
+﻿CID,ADDRESS,NAME
+C001  ," 7289 Broadway, New York           ", 123-45-6789
+C002  ," 9837 Market St, San Francisco     ", 987-65-4321
+C003  ," 6524 State St, Chicago            ", 345-67-8901
+C004  ," 3261 Avenue A, Los Angeles        ", 567-89-0123
+C005  ," 8572 Pine St, New York            ", 876-54-3210
+C006  ," 1487 Oak St, San Francisco        ", 234-56-7890
+C007  ," 9630 Elm St, Chicago              ", 678-90-1234
+C008  ," 3689 Birch St, Los Angeles        ", 432-10-9876
+C009  ," 9591 Cedar St, New York           ", 789-01-2345
+C010  ," 3557 Maple St, San Francisco      ", 987-65-4321
+C011  ," 6554 Oak St, Chicago              ", 345-67-8901
+C012  ," 8542 Pine St, Los Angeles         ", 567-89-0123
+C013  ," 9837 Cedar St, New York           ", 876-54-3210
+C014  ," 3547 Birch St, San Francisco      ", 234-56-7890
+C015  ," 1559 Elm St, Chicago              ", 678-90-1234
+C016  ," 9451 Maple St, Los Angeles        ", 432-10-9876
+C017  ," 2698 Chestnut St, New York        ", 111-22-3333
+C018  ," 5723 Walnut St, San Francisco     ", 444-55-6666
+C019  ," 7845 Cherry St, Chicago           ", 777-88-9999
+C020  ," 4376 Pine St, Los Angeles         ", 123-33-2233
+C021  ," 6982 Oak St, New York             ", 555-66-7777
+C022  ," 5210 Birch St, San Francisco      ", 888-99-0000
+C023  ," 1468 Elm St, Chicago              ", 111-11-1111
+C024  ," 3098 Maple St, Los Angeles        ", 222-22-2222
+C025  ," 6785 Cedar St, New York           ", 333-33-3333
+C026  ," 2397 Market St, San Francisco     ", 444-44-4444
+C027  ," 8521 State St, Chicago            ", 555-55-5555
+C028  ," 4156 Avenue A, Los Angeles        ", 666-66-6666
+C029  ," 7642 Pine St, New York            ", 777-77-7777
+C030  ," 6311 Oak St, San Francisco        ", 888-88-8888
+C031  ," 5984 Elm St, Chicago              ", 999-99-9999
+C032  ," 1209 Birch St, Los Angeles        ", 111-00-0011
+C033  ," 4867 Cedar St, New York           ", 222-11-1100
+C034  ," 2156 Market St, San Francisco     ", 333-22-0022
+C035  ," 7734 State St, Chicago            ", 444-33-0033
+C036  ," 3489 Avenue A, Los Angeles        ", 555-44-0044
+C037  ," 5213 Pine St, New York            ", 666-55-0055
+C038  ," 8923 Oak St, San Francisco        ", 777-66-0066
+C039  ," 6654 Elm St, Chicago              ", 888-77-0077
+C040  ," 4421 Birch St, Los Angeles        ", 999-88-0088
+C041  ," 7998 Cedar St, New York           ", 111-99-0099
+C042  ," 3675 Market St, San Francisco     ", 222-00-0000
+C043  ," 1234 State St, Chicago            ", 333-11-1111
+C044  ," 6789 Avenue A, Los Angeles        ", 444-22-2222
+C045  ," 9876 Pine St, New York            ", 555-33-3333
+C046  ," 5432 Oak St, San Francisco        ", 666-44-4444
+C047  ," 2154 Elm St, Chicago              ", 777-55-5555
+C048  ," 7890 Maple St, Los Angeles        ", 888-66-6666
+C049  ," 6543 Cedar St, New York           ", 999-77-7777
+C050  ," 2365 Market St, San Francisco     ", 111-213-5222
+C051  ," 9810 State St, Chicago            ", 222-22-1111
+C052  ," 3762 Avenue A, Los Angeles        ", 333-33-4444
+C053  ," 5098 Pine St, New York            ", 444-44-5555
+C054  ," 7412 Oak St, San Francisco        ", 555-55-6666
+C055  ," 6842 Elm St, Chicago              ", 666-66-7777
+C056  ," 3578 Birch St, Los Angeles        ", 777-77-8888
+C057  ," 1267 Cedar St, New York           ", 888-88-9999
+C058  ," 8901 Market St, San Francisco     ", 999-99-0000
+C059  ," 4321 State St, Chicago            ", 111-00-1111
+C060  ," 7754 Avenue A, Los Angeles        ", 222-11-2222
+C061  ," 6532 Pine St, New York            ", 333-22-3333
+C062  ," 9873 Oak St, San Francisco        ", 444-33-4444
+C063  ," 3456 Elm St, Chicago              ", 555-44-5555
+C064  ," 6789 Maple St, Los Angeles        ", 666-55-6666
+C065  ," 2134 Cedar St, New York           ", 777-66-7777
+C066  ," 8790 Market St, San Francisco     ", 888-77-8888
+C067  ," 5667 State St, Chicago            ", 999-88-9999
+C068  ," 2211 Avenue A, Los Angeles        ", 111-99-0000
+C069  ," 9988 Pine St, New York            ", 222-00-1111
+C070  ," 7542 Oak St, San Francisco        ", 333-11-2222
+C071            ," 1273 Main St, New York           ", Acme Corp
+C072," 4576 Oak St, San Francisco       ", Beta Solutions
+C073," 7869 Pine St, Chicago            ", Gamma Enterprises
+C074," 9847 Elm St, New York            ", Delta Innovations
+C075," 6554 Birch St, San Francisco     ", Epsilon Tech
+C076," 3221 Maple St, Chicago           ", Zeta Systems
+C077," 8532 Cedar St, Los Angeles       ", Eta Solutions
+C078," 1447 Grove St, San Francisco      ", Theta Technologies
+C079," 3699 Pine St, Chicago            ", Iota Innovations
+C080," 7503 Cedar St, Los Angeles       ", Kappa Enterprises
+C081," 1579 Cedar St, New York          ", Lambda Corp
+C082," 9653 Pine St, San Francisco      ", Mu Technologies
+C083," 9561 Oak St, Chicago             ", Nu Innovations
+C084," 3577 Cedar St, Los Angeles       ", Xi Enterprises
+C085," 9867 Oak St, New York            ", Omicron Technologies
+C086," 9541 Birch St, San Francisco     ", Pi Innovations
+C087," 3557 Elm St, Chicago             ", Rho Enterprises
+C088," 6534 Pine St, Los Angeles        ", Sigma Solutions
+C089," 8522 Maple St, New York          ", Tau Tech
+C090," 3659 Oak St, San Francisco       ", Upsilon Innovations
+C091," 1253 Cedar St, Chicago           ", Phi Technologies
+C092," 4546 Pine St, Los Angeles        ", Chi Innovations
+C093," 7869 Maple St, New York          ", Psi Systems
+C094," 9887 Cedar St, San Francisco     ", Omega Tech
+C095," 6594 Oak St, Chicago             ", Delta Corp
+C096," 8552 Pine St, Los Angeles        ", Epsilon Solutions
+C097," 9643 Elm St, New York            ", Zeta Innovations
+C098," 3639 Birch St, San Francisco     ", Eta Tech
+C099," 9521 Cedar St, Chicago           ", Theta Corp
+C100," 3527 Maple St, Los Angeles       ", Iota Solutions
+C101," 6554 Elm St, New York            ", Kappa Innovations
+C102," 8572 Pine St, San Francisco      ", Lambda Tech
+C103," 9887 Cedar St, Chicago           ", Mu Corp
+C104," 3507 Birch St, Los Angeles       ", Nu Solutions
+C105," 1589 Oak St, New York            ", Xi Innovations
+C106," 9673 Pine St, San Francisco      ", Omicron Tech
+C107," 9561 Oak St, Chicago             ", Pi Corp
+C108," 3547 Cedar St, Los Angeles       ", Rho Solutions
+C109," 9837 Oak St, New York            ", Sigma Innovations
+C110," 9521 Birch St, San Francisco     ", Tau Tech
+C111," 3575 Oak St, Chicago             ", Upsilon Innovations
+C112," 1235 Cedar St, Los Angeles       ", Phi Corp
+C113," 4536 Pine St, New York           ", Chi Solutions
+C114," 7839 Maple St, San Francisco     ", Psi Innovations
+C115," 9827 Cedar St, Los Angeles       ", Omega Tech
+C116," 6584 Oak St, New York            ", Delta Corp
+C117," 8572 Pine St, San Francisco      ", Epsilon Solutions
+C118," 9673 Elm St, Chicago            ", Zeta Innovations
+C119," 3659 Birch St, Los Angeles       ", Eta Tech
+C120," 9561 Cedar St, New York          ", Theta Corp
+C121," 3567 Maple St, San Francisco     ", Iota Solutions
+C122," 6534 Elm St, Chicago             ", Kappa Innovations
+C123," 8532 Pine St, Los Angeles        ", Lambda Tech
+C124," 9837 Cedar St, New York          ", Mu Corp

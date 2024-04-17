@@ -1,0 +1,88 @@
+﻿SSN ,STARTDATE,TELEPHONE,NAME,ADDRESS,MANAGER,BRANCHNAME,LENGTHOFEMPLOYMENT
+111111111, 2022-01-01  , 123-456-7890   , John Doe          ," 123 Main St, New York         ", NULL        , Main Bank                ,3
+222222222, 2022-02-01  , 234-567-8901   , Jane Smith        ," 456 Oak St, San Francisco     ",NULL, Downtown Branch          ,2
+333333333, 2022-03-01  , 345-678-9012   , Bob Johnson       ," 789 Pine St, Chicago          ",222222222, Downtown Branch          ,1
+444444444, 2022-04-01  , 456-789-0123   , Mary White        ," 987 Elm St, New York          ",111111111, Main Bank                ,2
+555555555, 2022-05-01  , 567-890-1234   , Chris Brown       ," 654 Birch St, San Francisco   ",NULL, Tech Park Branch         ,1
+666666666, 2022-06-01  , 678-901-2345   , Emily Davis       ," 321 Maple St, Chicago         ",222222222, Downtown Branch          ,3
+777777777, 2022-07-01  , 789-012-3456   , Alex Miller       ," 852 Cedar St, Los Angeles     ",222222222, Downtown Branch          ,2
+888888888, 2022-08-01  , 890-123-4567   , Sophia Hall       ," 147 Oak St, San Francisco     ",NULL, Financial District Branch ,1
+999999999, 2022-09-01  , 901-234-5678   , David Clark       ," 369 Pine St, Chicago          ",NULL, Midtown Branch           ,2
+123456789, 2022-10-01  , 012-345-6789   , Jessica Wilson    ," 753 Cedar St, Los Angeles     ",NULL, Westside Branch          ,3
+234567890, 2022-11-01  , 123-456-7890   , Ryan Taylor       ," 159 Elm St, New York          ",NULL, Tech Center Branch        ,1
+345678901, 2022-12-01  , 234-567-8901   , Olivia Garcia     ," 951 Maple St, San Francisco   ",222222222, Downtown Branch          ,2
+456789012, 2023-01-01  , 345-678-9012   , Ethan Hernandez   ," 357 Birch St, Chicago         ",222222222, Downtown Branch          ,3
+567890123, 2023-02-01  , 456-789-0123   , Mia Adams         ," 852 Pine St, Los Angeles      ",222222222, Downtown Branch          ,2
+678901234, 2023-03-01  , 567-890-1234   , Liam Baker        ," 963 Oak St, San Francisco     ",NULL, Suburb Branch             ,1
+789012345, 2023-04-01  , 678-901-2345   , Ava Turner        ," 159 Cedar St, Chicago         ",999999999, Midtown Branch            ,3
+890123456, 2023-05-01  , 789-012-3456   , Noah Brooks       ," 357 Birch St, Los Angeles     ",555555555, Tech Park Branch          ,2
+901234567, 2023-06-01  , 890-123-4567   , Isabella Cook     ," 753 Maple St, New York        ",234567890, Tech Center Branch         ,1
+112233445, 2023-07-01  , 901-234-5678   , Jackson Davis     ," 951 Oak St, Chicago           ",888888888, Financial District Branch  ,3
+223344556, 2023-08-01  , 012-345-6789   , Sophie Foster     ," 369 Elm St, Los Angeles       ",222222222, Downtown Branch           ,2
+334455667, 2023-09-01  , 123-456-7890   , Aiden Garcia      ," 147 Cedar St, San Francisco   ",234567890, Tech Center Branch         ,1
+445566778, 2023-10-01  , 234-567-8901   , Amelia Hayes      ," 654 Pine St, New York         ",999999999, Midtown Branch             ,3
+556677889, 2023-11-01  , 345-678-9012   , Logan Hill        ," 987 Oak St, Los Angeles       ",555555555, Tech Park Branch           ,2
+667788990, 2023-12-01  , 456-789-0123   , Harper Allen      ," 357 Elm St, Los Angeles       ",555555555, Tech Park Branch          ,2
+778899001, 2024-01-01  , 567-890-1234   , Evelyn Turner     ," 963 Pine St, San Francisco    ",222222222, Downtown Branch           ,1
+889900112, 2024-02-01  , 678-901-2345   , Wyatt Cooper      ," 654 Cedar St, Chicago         ",222222222, Downtown Branch           ,3
+990011223, 2024-03-01  , 789-012-3456   , Penelope Bennett  ," 852 Oak St, New York          ",678901234, Suburb Branch             ,2
+123321456, 2024-04-01  , 890-123-4567   , Gabriel Hayes     ," 159 Birch St, Los Angeles     ",234567890, Tech Center Branch         ,3
+234432567, 2024-05-01  , 901-234-5678   , Nora Howard       ," 357 Elm St, San Francisco     ",222222222, Downtown Branch           ,1
+345543678, 2024-06-01  , 012-345-6789   , Isaiah Taylor     ," 963 Pine St, Chicago          ",222222222, Downtown Branch           ,2
+456654789, 2024-07-01  , 123-456-7890   , Scarlett Diaz     ," 654 Cedar St, Los Angeles     ",888888888, Financial District Branch  ,3
+567765890, 2024-08-01  , 234-567-8901   , Leo Griffin       ," 852 Birch St, New York        ",555555555, Tech Park Branch          ,1
+678876001, 2024-09-01  , 345-678-9012   , Stella Watson     ," 147 Elm St, San Francisco     ",222222222, Downtown Branch           ,2
+789987112, 2024-10-01  , 456-789-0123   , Miles Ryan        ," 951 Pine St, Chicago          ",555555555, Tech Park Branch          ,3
+890098223, 2024-11-01  , 567-890-1234   , Ellie Foster      ," 369 Cedar St, Los Angeles     ",222222222, Downtown Branch           ,2
+900001234, 2024-12-01  , 678-901-2345   , Aria Turner       ," 159 Oak St, San Francisco     ",234567890, Tech Center Branch         ,1
+101112345, 2025-01-01  , 789-012-3456   , Noah Adams        ," 357 Elm St, Chicago           ",999999999, Midtown Branch            ,3
+112223456, 2025-02-01  , 890-123-4567   , Amelia Hayes      ," 987 Pine St, Los Angeles      ",222222222, Downtown Branch           ,2
+223334567, 2025-03-01  , 901-234-5678   , Liam Baker        ," 357 Cedar St, New York        ",555555555, Tech Park Branch          ,1
+334445678, 2025-04-01  , 012-345-6789   , Olivia Garcia     ," 654 Oak St, San Francisco     ",234567890, Tech Center Branch         ,3
+445556789, 2025-05-01  , 123-456-7890   , Ethan Hernandez   ," 852 Pine St, Chicago          ",222222222, Downtown Branch           ,2
+556667890, 2025-06-01  , 234-567-8901   , Mia Adams         ," 963 Elm St, Los Angeles       ",222222222, Downtown Branch           ,1
+667778901, 2025-07-01  , 345-678-9012   , Liam Baker        ," 159 Birch St, San Francisco   ",888888888, Financial District Branch  ,3
+778889012, 2025-08-01  , 456-789-0123   , Ava Turner        ," 357 Cedar St, Chicago         ",555555555, Tech Park Branch          ,2
+889900123, 2025-09-01  , 567-890-1234   , Noah Brooks       ," 852 Pine St, Los Angeles      ",222222222, Downtown Branch           ,2
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
