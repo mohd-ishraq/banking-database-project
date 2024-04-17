@@ -59,6 +59,6 @@ This project involves the design and implementation of a database system for a b
 
 ## Contributors
 
-- [Your Name](https://github.com/mohd-ishraq)
+- [Ishraq Mohammed](https://github.com/mohd-ishraq)
 
 
